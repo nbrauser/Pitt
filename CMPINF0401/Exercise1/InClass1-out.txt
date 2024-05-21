@@ -1,0 +1,43 @@
+Please enter a positive double (<= 0 to quit): 
+34.44445
+Enter the number of digits to round (> 0): 
+4
+
+Orig: 34.44445
+Rounded to 4 places: 34.4445
+
+Please enter a positive double (<= 0 to quit): 
+34.44445
+Enter the number of digits to round (> 0): 
+3
+
+Orig: 34.44445
+Rounded to 3 places: 34.444
+
+Please enter a positive double (<= 0 to quit): 
+2.71818
+Enter the number of digits to round (> 0): 
+2
+
+Orig: 2.71818
+Rounded to 2 places: 2.72
+
+Please enter a positive double (<= 0 to quit): 
+2.71818
+Enter the number of digits to round (> 0): 
+3
+
+Orig: 2.71818
+Rounded to 3 places: 2.718
+
+Please enter a positive double (<= 0 to quit): 
+2.71818
+Enter the number of digits to round (> 0): 
+4
+
+Orig: 2.71818
+Rounded to 4 places: 2.7182
+
+Please enter a positive double (<= 0 to quit): 
+0
+
